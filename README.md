@@ -1,6 +1,5 @@
 # Backend_TestSeries_Banners
-
-![Untitled](https://github.com/sahootwinkle794/Backend_TestSeries_Banners/assets/103883052/c9757eb2-cf62-4e10-a80a-42162e73d7df)
-![Untitled](https://github.com/sahootwinkle794/Backend_TestSeries_Banners/assets/103883052/b0e01927-5c27-44b8-9153-ef38e6e4c0b9)
-![images](https://github.com/sahootwinkle794/Backend_TestSeries_Banners/assets/103883052/855c1be1-c124-435d-88ba-c6cf37048bbb)
-![aws-certi](https://github.com/sahootwinkle794/Backend_TestSeries_Banners/assets/103883052/8057ebfd-3908-4b4f-a960-fae56cc61e25)
+![banner1](https://github.com/sahootwinkle794/Backend_TestSeries_Banners/assets/103883052/4d37a21d-8469-4254-8e2a-30ed7cb44a14)
+![banner4](https://github.com/sahootwinkle794/Backend_TestSeries_Banners/assets/103883052/6fba9468-a6da-4a94-917d-40a776a57d6d)
+![banner3](https://github.com/sahootwinkle794/Backend_TestSeries_Banners/assets/103883052/050f5a03-7ee9-408c-bd71-35bb8e06989a)
+![banner2](https://github.com/sahootwinkle794/Backend_TestSeries_Banners/assets/103883052/96db33e3-c9cb-4773-ada9-b643900287fa)
